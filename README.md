@@ -1,8 +1,7 @@
 - 👋 Hey, je suis Volking
-- 👀 Je suis intéresser pas le code de bot Discord
+- 👀 Je suis intéresser par le code de logiciel et de sites web
 - 🌱 Je suis en train d'apprendre le code
-- 💞️ Je cherche à collaborer sur Discord et sur mes bots
-- 📫 Comment me joindre -> Volking#0001
+- 📫 Comment me joindre -> Volking (Discord) / VolkingYtb (X) 
 
 <!---
 VolkingTB/VolkingTB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
